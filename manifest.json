@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Sidebar timer",
+  "description": "A timer in the sidebar",
+  "version": "1.0",
+  "permissions": [ "sidePanel" ],
+  "side_panel": {
+    "default_path": "side_panel.html"
+  }
+}
